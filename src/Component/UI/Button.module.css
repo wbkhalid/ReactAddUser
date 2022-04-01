@@ -5,6 +5,9 @@
     color: white;
     padding: 0.25rem 1rem;
     cursor: pointer;
+    margin-left: 5px;
+    margin-bottom: 2px;
+    border-radius: 10px;
   }
   
   .button:hover,
